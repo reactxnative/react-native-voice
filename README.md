@@ -132,3 +132,9 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## License
 MIT
+
+## Connect with Me
+
+- 📺 **YouTube:** [React Native Code Tutorials](https://www.youtube.com/watch?v=nnwKEC1Qz08)
+- 💼 **LinkedIn:** [Rahul Singh](https://www.linkedin.com/in/rahul-singh-react-native/)
+- 🌐 **Portfolio:** [rahul-singh-profile.vercel.app](https://rahul-singh-profile.vercel.app/)
