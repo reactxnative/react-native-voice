@@ -1,5 +1,7 @@
 # @reactxnative/react-native-voice
 
+### 🎥 [Click here to watch the Demo Video!](https://github.com/reactxnative/react-native-voice/raw/main/demo.mov)
+
 A high-performance, custom React Native voice recognition library built entirely using the new Android Native TurboModule Architecture (Bridgeless-ready). 
 
 It uses Android's built-in `SpeechRecognizer` API to deliver fast, offline-capable (depending on OS), and highly accurate voice-to-text recognition with no external dependencies. Currently optimized for Android.
