@@ -1,6 +1,6 @@
 {
   "name": "@reactxnative/react-native-voice",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A custom voice recognizer for React Native Android",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
